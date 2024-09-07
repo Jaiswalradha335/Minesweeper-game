@@ -1,1 +1,1 @@
-This is simple minesweeper game 
+#This is simple minesweeper game 
